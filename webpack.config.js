@@ -1,5 +1,3 @@
-# wp
-
 let path = require('path');
 
 //导入css分离插件
